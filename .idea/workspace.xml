@@ -26,14 +26,14 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="1" column="95" selection-start-line="1" selection-start-column="95" selection-end-line="1" selection-end-column="95" />
+            <state relative-caret-position="510">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
               <folding>
-                <marker date="1484084979598" expanded="true" signature="799:1432" ph="..." />
-                <marker date="1484084979598" expanded="true" signature="806:1050" ph="..." />
-                <marker date="1484084979598" expanded="true" signature="1057:1424" ph="..." />
-                <marker date="1484084979598" expanded="true" signature="1073:1416" ph="..." />
-                <marker date="1484084979598" expanded="true" signature="1117:1409" ph="..." />
+                <marker date="1484109582450" expanded="true" signature="1017:1651" ph="..." />
+                <marker date="1484109582450" expanded="true" signature="1024:1268" ph="..." />
+                <marker date="1484109582450" expanded="true" signature="1275:1643" ph="..." />
+                <marker date="1484109582450" expanded="true" signature="1291:1635" ph="..." />
+                <marker date="1484109582450" expanded="true" signature="1335:1628" ph="..." />
               </folding>
             </state>
           </provider>
@@ -147,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484062905860</updated>
-      <workItem from="1484062908365" duration="3618000" />
+      <workItem from="1484062908365" duration="4369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3618000" />
+    <option name="totallyTimeSpent" value="4369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -195,14 +195,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="1" column="95" selection-start-line="1" selection-start-column="95" selection-end-line="1" selection-end-column="95" />
+        <state relative-caret-position="510">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
-            <marker date="1484084979598" expanded="true" signature="799:1432" ph="..." />
-            <marker date="1484084979598" expanded="true" signature="806:1050" ph="..." />
-            <marker date="1484084979598" expanded="true" signature="1057:1424" ph="..." />
-            <marker date="1484084979598" expanded="true" signature="1073:1416" ph="..." />
-            <marker date="1484084979598" expanded="true" signature="1117:1409" ph="..." />
+            <marker date="1484109582450" expanded="true" signature="1017:1651" ph="..." />
+            <marker date="1484109582450" expanded="true" signature="1024:1268" ph="..." />
+            <marker date="1484109582450" expanded="true" signature="1275:1643" ph="..." />
+            <marker date="1484109582450" expanded="true" signature="1291:1635" ph="..." />
+            <marker date="1484109582450" expanded="true" signature="1335:1628" ph="..." />
           </folding>
         </state>
       </provider>
