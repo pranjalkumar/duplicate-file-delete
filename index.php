@@ -20,20 +20,30 @@ if(isset($_POST['addr'])&& !empty($_POST['addr'])&& !empty($_POST['task']))
     $match=0;
     for($j=0;$j<$i;$j++)
     {
-        for($k=$j+1;$k<$i;$k++)
-        {
-            if(((string)$arr[$j] )==((string)$arr[$k]))
-            {
-//            {   echo $arr[$k];
-//                $match++;
-                if($task=='see'){
-                    echo $arr[$k];
+//        for($k=$j+1;$k<$i;$k++)
+//        {
+//            if(((string)$arr[$j] )==((string)$arr[$k]))
+//            {
+////            {   echo $arr[$k];
+////                $match++;
+//                if($task=='see'){
+//                    echo $arr[$k];
+//                }
+//                if($task=='delete')
+//                {$add=$url.'/'.$arr[$k];
+//                unlink($addr);}
+//
+//            }
+//        }
+        if(stripos($arr[$j],'('))
+        {   $match++;
+            if($task=='see'){
+                    echo $arr[$j];
                 }
                 if($task=='delete')
-                {$add=$url.'/'.$arr[$k];
-                unlink($addr);}
+                {$add=$url.'/'.$arr[$j];
+                unlink($add);}
 
-            }
         }
     }
     if($match==0)
